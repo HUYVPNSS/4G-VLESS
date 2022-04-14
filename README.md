@@ -36,4 +36,6 @@ XONG THÌ ẤN DEPLOY RỒI CHỜ TẠO
 
 ![image](https://user-images.githubusercontent.com/103580389/163392710-c969fe71-3dde-4711-b0b2-a97ff5640db1.png)
 
+![image](https://user-images.githubusercontent.com/103580389/163395556-95568027-78a8-4ec0-bf38-f7752d653d9c.png)
 
+![image](https://user-images.githubusercontent.com/103580389/163395618-de3a0f17-3752-4bbb-8f3b-75bd9ea2ac98.png)
