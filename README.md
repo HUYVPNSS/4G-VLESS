@@ -30,6 +30,8 @@ nhớ ấn vào trang web dành cho máy tính
 
 
 XONG THÌ ẤN DEPLOY RỒI CHỜ TẠO
+
+
 ![image](https://user-images.githubusercontent.com/103580389/163203985-eaa53dde5e2effb3fef7d26ff83321cf96858032.png)
 
 ![image](https://user-images.githubusercontent.com/103580389/163392710-c969fe71-3dde-4711-b0b2-a97ff5640db1.png)
