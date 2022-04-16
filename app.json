@@ -9,6 +9,6 @@
             "required": true        
         }
     },
-    "repository": "https://github.com/heshan2/heroku-xray-server",
+    "repository": "https://github.com/mienphi4g/4G-VMESS",
     "stack": "container"
 }
